@@ -1,6 +1,6 @@
 # Hi, I'm Srikanth P V 👋
 
-Full-stack developer in Bengaluru. I ship web, mobile, and AI products end to end:
+Full-stack developer in Chennai. I ship web, mobile, and AI products end to end:
 Next.js and React on the front, Django and Node on the back, Flutter for mobile,
 and LLM integrations that stay inside a budget.
 
